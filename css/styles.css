@@ -5,6 +5,8 @@ h1 {
 p {
   color: chartreuse;
 }
-body {
-  background-color: chocolate;
+
+a {
+  color: black;
+  background-color: rgb(57, 210, 30);
 }
