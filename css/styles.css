@@ -1,6 +1,9 @@
-/* .menu li {
-  border: 1px solid tomato;
-} */
+body {
+  font-family: "PT Sans", sans-serif;
+
+  text-align: center;
+  color: #000;
+}
 .menu > li {
   border: 1px solid tomato;
 }
