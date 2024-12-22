@@ -1,0 +1,15 @@
+/* .menu li {
+  border: 1px solid tomato;
+} */
+.menu > li {
+  border: 1px solid tomato;
+}
+.button {
+  color: chocolate;
+  border-color: black;
+}
+.button:hover {
+  background-color: red;
+  border-color: chartreuse;
+  border-radius: 25%;
+}
