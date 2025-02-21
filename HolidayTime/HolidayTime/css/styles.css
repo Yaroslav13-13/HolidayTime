@@ -229,7 +229,6 @@
     display: flex;
     display: inline-block;
     background-color: rgba(234, 234, 235, 0.7);
-
   }
 
   .hero-3 {
@@ -373,11 +372,21 @@
 
   .footer-link {
     margin-left: 60px;
-    margin-top: 21px;
+    xcdds margin-top: 21px;
     font-family: "PT Sans", sans-serif;
     font-style: italic;
     font-weight: 400;
     font-size: 36px;
     text-align: center;
     color: #eeecf1;
+  }
+
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100h;
+  }
+
+  main {
+    flex-grow:
   }
